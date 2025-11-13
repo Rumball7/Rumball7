@@ -15,7 +15,7 @@ My background spans **data analytics, data engineering, and data science**, with
 
 ### 🧠 Tools & Technologies
 **Languages:** Python • R • SQL  
-**Platforms:** Databricks • Snowflake • SAS • Kaggle  
+**Platforms:** Databricks • Snowflake • Azure
 **Visualization:** Power BI • Tableau  
 **Libraries:** Pandas • NumPy • Scikit-learn • Matplotlib • Seaborn  
 **Workflow:** Jupyter • GitHub • Agile/Scrum • CI/CD for analytics
