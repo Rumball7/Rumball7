@@ -5,7 +5,7 @@ My background spans **data analytics, data engineering, and data science**, with
 
 ---
 
-### 🚀💥 What I Do
+### 💥 What I Do
 - **Data Analytics & Visualization:** Building interactive dashboards and data stories with **Power BI**, **Tableau**, and **SAS Visual Analytics**.  
 - **Data Engineering:** Designing robust ETL pipelines and data models using **Databricks**, **Snowflake**, and **SQL**.  
 - **Data Science & Machine Learning:** Applying **Python**, **R**, and **Pandas/Scikit-learn** to explore data, develop models, and automate insight generation.  
@@ -13,7 +13,7 @@ My background spans **data analytics, data engineering, and data science**, with
 
 ---
 
-### 🧠 Tools & Technologies
+### 🔨 Tools & Technologies
 **Languages:** Python • R • SQL  
 **Platforms:** Databricks • Snowflake • Azure
 **Visualization:** Power BI • Tableau  
