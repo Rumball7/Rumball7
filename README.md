@@ -2,6 +2,7 @@
 
 I’m a data-driven professional with 15+ years of experience turning complex business problems into actionable insights.  
 My background spans **data analytics, data engineering, and data science**, with hands-on expertise across modern data platforms and tools.
+I am PMP and SSM and lately I’ve been PM on a portfolio of projects and providing all kinds of solutions through traditional project and Agile delivery.  
 
 ---
 
